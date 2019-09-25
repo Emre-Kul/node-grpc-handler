@@ -1,0 +1,11 @@
+{
+  "name": "node-grpc-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emre Kul",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
+}
